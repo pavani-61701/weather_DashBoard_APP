@@ -62,8 +62,8 @@ A modern React TypeScript dashboard for visualizing weather data over interactiv
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd weather-dashboard
+git clone https://github.com/pavani-61701/weather_DashBoard_APP.git
+cd weather_DashBoard_APP
 ```
 
 ### 2. Install Dependencies
