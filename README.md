@@ -220,6 +220,3 @@ src/
 - Use shorter time ranges for better response times
 - Clear browser data if experiencing memory issues
 
-## License
-
-This project is open source and available under the MIT License.
