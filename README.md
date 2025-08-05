@@ -117,8 +117,8 @@ npm run preview
 
 ### 4. Data Visualization
 - Polygons are automatically colored based on weather data at their location
+- If the data received from API is null or if user selects a future date and time the polygon will be highlighted in black.
 - Colors update dynamically when timeline changes
-- Hover over polygons to see additional information
 - Click polygons to delete them (with confirmation)
 
 ## API Integration Details
