@@ -90,7 +90,7 @@ export const usePolygonData = () => {
 
     const id = setTimeout(() => {
       updatePolygonColors();
-    }, 2000);
+    }, 1000);
 
     return () => clearTimeout(id);
   }, [polygons, currentTime, timeRange.start, timeRange.end, isRangeMode, isEditingPolygon]);
