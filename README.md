@@ -2,6 +2,11 @@
 
 A modern React TypeScript dashboard for visualizing weather data over interactive maps with timeline controls and polygon-based analysis.
 
+## 🚀 Live Demo
+
+https://precious-semolina-7530c9.netlify.app
+
+
 ## Features
 
 ### Core Functionality
